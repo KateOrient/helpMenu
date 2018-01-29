@@ -1,0 +1,78 @@
+.help-button {
+    color: #e5e5e5;
+    border: none;
+    background-color: inherit !important;
+    box-shadow: none !important;
+    margin: 0 !important;
+    height: inherit;
+}
+
+.help-button:hover{
+    color: white;
+}
+
+.dropdown{
+    text-align: right;
+    height: inherit;
+    background-color: inherit;
+}
+
+.dropdown-menu{
+    width: 200px;
+    margin: 0;
+    border: #3d3d3d solid 1px;
+    border-top: none;
+    border-radius: 0;
+    border-bottom-left-radius: 7%;
+    border-bottom-right-radius: 7%;
+    padding-bottom: 10px;
+}
+
+.dropdown-item{
+    outline: none !important;
+    color: #3d3d3d;
+    font-size: 19px;
+    padding-left: 10%;
+}
+
+.dropdown-item:hover{
+    color: inherit;
+    background-color: rgba(150,150,150,0.1);
+}
+
+.divider{
+    background-color: #3d3d3d;
+    margin-left: 7%;
+    margin-right: 7%;
+    border-top-color: #3d3d3d;
+}
+
+.material-icons {
+    font-size: 36px;
+}
+
+/*.material-icons {
+    font-family: 'Material Icons';
+    font-weight: normal;
+    font-style: normal;
+    font-size: 36px;!*  Preferred icon size *!
+    !*display: inline-block;*!
+    line-height: 1;
+    text-transform: none;
+    letter-spacing: normal;
+    word-wrap: normal;
+    white-space: nowrap;
+    direction: ltr;
+    !* Support for all WebKit browsers. *!
+    -webkit-font-smoothing: antialiased;
+    !* Support for Safari and Chrome. *!
+    text-rendering: optimizeLegibility;
+    !* Support for Firefox. *!
+    -moz-osx-font-smoothing: grayscale;
+    !* Support for IE. *!
+    font-feature-settings: 'liga';
+}*/
+
+.about-us-modal{
+    top:20%;
+}
